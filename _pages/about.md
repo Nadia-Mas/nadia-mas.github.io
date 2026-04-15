@@ -18,9 +18,9 @@ news: true
 social: true
 ---
 
-I am a Ph.D. student in the <a href="https://cs.utsa.edu/">Computer Science Department</a> at the University of Texas at San Antonio (UTSA), where I work in the Computational Biology Lab under the supervision of Dr. Jianhua Ruan.
+I am a Ph.D. student in the <a href="https://cs.utsa.edu/">Computer Science Department</a> at the <a href="https://caicc.utsa.edu/computer-science/">University of Texas at San Antonio (UTSA)</a>, where I work in the Computational Biology Lab under the supervision of<a href="https://caicc.utsa.edu/faculty/profiles/ruan-jianhua.html"> Dr. Jianhua Ruan</a> .
 
-My research lies at the intersection of machine learning, deep learning, and computational biology, with a particular focus on CRISPR base editing efficiency and outcome prediction. I develop and evaluate data-driven models for genomic sequence analysis, aiming to improve the accuracy and reliability of genome editing technologies.
+My research lies at the intersection of machine learning, deep learning, and computational biology 🧬, with a particular focus on CRISPR base editing efficiency and outcome prediction. I develop and evaluate data-driven models for genomic sequence analysis, aiming to improve the accuracy and reliability of genome editing technologies.
 
 More broadly, I am interested in applying machine learning to impactful real-world problems in healthcare, genomics, and industry. My experience spans multiple areas, including computer vision, natural language processing, and biomedical data analysis.
 
