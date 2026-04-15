@@ -14,7 +14,7 @@ profile:
     <p><a href='fatemeh.masoumi@utsa.edu'>fatemeh.masoumi@utsa.edu</a></p>
     <p><a href='fatemeh.masoumii.1994@gmail.com'>fatemeh.masoumii.1994@gmail.com</a></p>
 
-news: true
+news: false
 social: true
 ---
 
